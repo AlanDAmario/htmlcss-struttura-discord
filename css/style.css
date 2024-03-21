@@ -78,3 +78,41 @@
     height: 300px;
 }
 /* FINE SECONDA */
+
+/* INIZIO TERZA QUARTA E QUINTA COLONNA */
+
+.col-skyblue{
+    background-color: skyblue;
+}
+
+.col-pink{
+    background-color: pink;
+}
+
+.height-400{
+    height: 400px;
+}
+
+.width-60{
+    width: 60%;
+    margin: 25px 0px;
+}
+
+.width-40{
+    width: 40%;
+    margin: 25px 0px;
+}
+
+.bg-grey{
+    background-color: grey;
+}
+
+.col-green{
+    background-color: green;
+    height: 600px;
+}
+
+.width-100{
+    width: 100%;
+    margin: 25px 0px;
+}
