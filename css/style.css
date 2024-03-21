@@ -116,3 +116,34 @@
     width: 100%;
     margin: 25px 0px;
 }
+/* FINE TERZA QUARTA E QUINTA COLONNA */
+
+/* SESTA E SETTIMA COLONNA */
+
+.bg-black{
+    background-color: black;
+
+}
+
+.plus-col{
+    background-color: coral;
+    width: 60%;
+    margin: 15px 0 25px 0;
+}
+
+.col{
+    background-color: aquamarine;
+    width: 10%;
+    margin: 15px 0 25px 0 ;
+}
+
+button{
+    background-color: brown;
+    padding: 3px;
+    margin: 15px 0;
+}
+
+.flex-betw{
+    justify-content: space-between;
+
+}
